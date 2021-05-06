@@ -1,3 +1,4 @@
-？？YYg is learning git in 26/4/2021!
+YYg is learning git in 26/4/2021!
 the first updation!
-the second updation!
+the second updation！
+やっだ！
